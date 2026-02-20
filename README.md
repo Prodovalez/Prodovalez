@@ -91,20 +91,6 @@
 
 <div align="center">
 
-### 🏆 GitHub Трофеи / GitHub Trophies
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prodovalez&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 🎯 Текущие фокусные области / Current Focus
 
 </div>
