@@ -1,12 +1,6 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prodovalez&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Инженер+по+информационной+безопасности;Security+Engineer;Системный+администратор;Защищаю+цифровой+мир+🛡️" alt="Typing SVG" /></a>
-
-</div>
 
 ---
 
@@ -209,7 +203,6 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prodovalez/Prodovalez/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prodovalez/Prodovalez/output/github-contribution-grid-snake.svg">
